@@ -395,14 +395,18 @@ nav .button-collapse {
 }
 
 #section5 {
-  height:40vh;
-  background-color:red;
+  height:50vh;
+  background-color:white;
 }
 #testimonials {
   background: #fff;
   border-top: solid 10px #47953F;
   text-align: center;
-  height:40vh !important;
+  height:50vh !important;
+}
+
+#testimonials {
+  height:50vh !important;
 }
 
 #avatar {
