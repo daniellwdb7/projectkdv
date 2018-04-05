@@ -394,18 +394,13 @@ nav .button-collapse {
   font-family: 'Didact Gothic', sans-serif;
 }
 
-#section5 {
-  height:50vh;
-  background-color:transparent;
+.carousel-item, .carousel {
+  height:80vh !important;
 }
 #testimonials {
   background: #fff;
   border-top: solid 10px #47953F;
   text-align: center;
-  height:50vh !important;
-}
-
-#testimonials {
   height:50vh !important;
 }
 
@@ -435,7 +430,7 @@ nav .button-collapse {
     background: #fff;
     border-top: solid 10px #47953F;
     text-align: center;
-    height:40vh !important;
+    height:50vh !important;
   }
 
   #avatar {
